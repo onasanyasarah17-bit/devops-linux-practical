@@ -1,7 +1,7 @@
 # Hi, I'm Sarah 
 I am a passionate tech learner currently building my skills in DevOps and system administration. I enjoy working with Linux, Git, and web servers like Nginx.
 
-##🚀 About Me 
+## 🚀 About Me 
 🤝 - currently pursuing my degree in political science at  Tai Solarin Federal University of Education.
 🎓 - Currently working toward achieving my DevOps certificate in SCA Academy Cohort 3 program.
 
